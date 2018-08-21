@@ -1,1 +1,2 @@
 # krc
+OO nie opet
